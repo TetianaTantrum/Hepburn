@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import mediaRule from 'utils/mediaRule';
+import mediaRule from 'utils/mediaRules';
 
 export const StyledContainer = styled.div`
   display: flex;
